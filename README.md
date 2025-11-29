@@ -19,4 +19,4 @@ Fields:
 ## 📦 Integration Code
 Refer to `firebase-config/firebaseConfig.js`
 
-This line added by Student B to create merge conflict.
+I am Student A overwriting this to show merge conflict.
